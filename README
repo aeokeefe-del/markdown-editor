@@ -1,10 +1,12 @@
-## Project Description
+Project Description:
 This project was introduction into connecting specified files(index.html, style.css, app.js) to GitHub for publishing. Overall helped practice the stages of updated and saving for larger projects
 
-## How to Run Locally
-Explanation of running
+How to Run Locally:
+1) Clone Git repository using the GitHub link
+2) Open project folder in VS Code or platform of choice
+3) Run application in browser
 
-## Features
+Features:
 - feature 1
 - feature 2
 - feature 3
